@@ -20,3 +20,4 @@ Press (and hold) **CTRL+m** keyboard keys combination to freeze animation!
 
 ![](https://github.com/createit-dev/141-key-combination-keydown-keyup-in-react/blob/main/public/images/react-key-combinations-hold.gif)
 
+Read more on our site: https://www.createit.com/blog/key-combination-holding-event-in-react-3/
